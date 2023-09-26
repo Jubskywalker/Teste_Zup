@@ -187,6 +187,9 @@ Você pode limitar valores diários e noturnos nas suas transações Pix, o ajus
  
 Pronto! Após a confirmação, o seu limite será atualizado.
 
+### Pagamento parcelado com Pix
+Em breve.
+
 ## Segurança
 
 ### Primeira vez usando o Pix?
@@ -223,3 +226,5 @@ Pensando em auxiliar nos imprevistos do dia a dia da sua empresa, recebendo mens
 0800 728 0728
 > <br/> ouvidoria
 0800 570 0011
+>
+> 
